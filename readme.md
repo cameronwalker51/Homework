@@ -10,6 +10,8 @@
 
 [All the (Internet of) Things](https://www.codecademy.com/article/all-the-internet-of-things)
 
+![Image](https://github.com/user-attachments/assets/b5305607-3d25-4847-b1d9-8378d558f7e5)
+
 
 
 
