@@ -1,4 +1,6 @@
-#####I AM A Commited and hard working Student willing to strive for better. 
+#####CameronWalker
+
+###I AM A Commited and hard working Student willing to strive for better. 
 
 - [ ] (Be on Time for class)
 - [ ] (Ask questions more/Be more open)
@@ -8,6 +10,6 @@
 
 [All the (Internet of) Things](https://www.codecademy.com/article/all-the-internet-of-things)
 
-)
+
 
 
