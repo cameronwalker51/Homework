@@ -1,6 +1,6 @@
-##### CameronWalker
+## CameronWalker
 
-### I AM A Commited and hard working Student willing to strive for better. 
+#### I AM A Commited and hard working Student willing to strive for better. 
 
 - [ ] (Be on Time for class)
 - [ ] (Ask questions more/Be more open)
